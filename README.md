@@ -8,3 +8,4 @@
 - 💬 Ask me about **anything you want.**
 - ⚡ Fun fact: **Foodie**
 
+![vineeta-v github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vineeta-v&&show_icons=true&theme=dark)
